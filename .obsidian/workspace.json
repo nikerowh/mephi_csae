@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bb43c02a264da28a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dcfaaf7933b4b73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb64f6257b94fa86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSaE/Информатика и вычислительная техника.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Информатика и вычислительная техника"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb3f12b694585a6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c05e5776bf246d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcaf78d64f02831c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "aa05eeea441ede8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "59ae94363d34c2bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a76ba3d5f9396e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76dd0b316a309ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b7a5abde1a626ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSaE/Информатика и вычислительная техника.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Информатика и вычислительная техника"
+            }
+          },
+          {
+            "id": "73f7d19816325164",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSaE/Информатика и вычислительная техника.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Информатика и вычислительная техника"
+            }
+          },
+          {
+            "id": "94ca8915948d2511",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "39bba9f7f8786b3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSaE/Информатика и вычислительная техника.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Информатика и вычислительная техника"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "fb64f6257b94fa86",
+  "lastOpenFiles": [
+    "CSaE/Информатика (основы программирования).md",
+    "CSaE/1 семестр.md",
+    "README.md"
+  ]
+}
