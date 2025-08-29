@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CSaE/Информатика (основы программирования).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,9 +171,10 @@
   },
   "active": "fb64f6257b94fa86",
   "lastOpenFiles": [
-    "CSaE/1 семестр.md",
     "CSaE/Информатика и вычислительная техника.md",
-    "README.md",
-    "CSaE/Информатика (основы программирования).md"
+    "Математический анализ.md",
+    "CSaE/1 семестр.md",
+    "CSaE/Информатика (основы программирования).md",
+    "README.md"
   ]
 }
