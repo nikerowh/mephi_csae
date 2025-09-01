@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSaE/Математический анализ.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Математический анализ"
+              "title": "README"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "bcaf78d64f02831c",
+  "active": "fb64f6257b94fa86",
   "lastOpenFiles": [
-    "CSaE/1 семестр.md",
     "CSaE/Математический анализ.md",
+    "CSaE/1 семестр.md",
     "CSaE/Информатика (основы программирования).md",
     "CSaE/Информатика и вычислительная техника.md",
     "README.md"
